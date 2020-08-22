@@ -10257,6 +10257,11 @@ form .row:first-child .floating-label-form-group {
   color: #fff;
 }
 
+.econocashiframe iframe {
+  width: 100%;
+  border: 0;
+}
+
 .copyright {
   background-color: #1a252f;
 }
